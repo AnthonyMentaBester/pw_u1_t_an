@@ -14,7 +14,9 @@ public class PwI1TAnApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("mi primera tarea");
+		System.out.println("mi primera tarea modificada");
+		System.out.println("mi primera tarea modificada");
+		System.out.println("mi primera tarea modificada");
 		
 	}
 
